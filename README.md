@@ -1,4 +1,4 @@
-# Introduction 👨‍🦰
+# Introduction 
 Hello, i am **Face**. developer of weky. Owner of Weky Development!
 
 # Invites
