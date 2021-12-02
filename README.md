@@ -1,8 +1,8 @@
 # Introduction 
-Hello, i am **Face**. developer of weky. Owner of Weky Development!
+Hello, i am **Face**. developer of Weky, Acolium!
 
 # Invites
-- **[Discord](https://discord.gg/Sr2U5WuaSN)**
+- **[Discord](https://discord.gg/EKQtnY8Z9h)**
 - **[NPM](https://www.npmjs.com/package/weky)**
 
 # GitHub Activity
