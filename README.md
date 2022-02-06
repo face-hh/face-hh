@@ -1,9 +1,9 @@
 # Introduction 
-Hello, i am **Face**. developer of Acolium!
+Hello, I am **Face**! Owner & developer of Acolium!
 
 # Invites
 - **[Discord](https://discord.gg/EKQtnY8Z9h)**
-- **[NPM](https://www.npmjs.com/package/weky)**
+- **[Bot](https://acolium.xyz)** (WIP)
 
 # GitHub Activity
 
