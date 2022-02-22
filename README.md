@@ -3,7 +3,7 @@ Hello, I am **Face**! Owner & developer of Acolium!
 
 # Invites
 - **[Discord](https://discord.gg/EKQtnY8Z9h)**
-- **[Bot](https://acolium.xyz)** (WIP)
+- **[Bot](https://acolium.facedev.xyz)**
 
 # GitHub Activity
 
