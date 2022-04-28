@@ -11,4 +11,4 @@ Hello, I am **Face**! Owner & developer of Acolium!
 
 ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#FF3366', 'I2I65D8SE');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/supportkofi' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
