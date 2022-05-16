@@ -1,5 +1,5 @@
 # Introduction 
-<imng src='https://git.io/typing-svg'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=14C305&lines=Did+you+know+sky+is+blue%3F)](https://git.io/typing-svg)
 
 # Invites
 - **[Discord](https://discord.gg/EKQtnY8Z9h)**
