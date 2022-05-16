@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
-![face-hh](https://activity-graph.herokuapp.com/graph?username=face-hh)
-
 ![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
