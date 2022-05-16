@@ -1,4 +1,4 @@
-<img align='left' src='https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg' width='50%'/> 
+<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
 <h1 align="left">YOOOOO</h1>
 
@@ -6,7 +6,7 @@
   I'm a JavaScript developer! I respond fast on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> btw ;)
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=14C305&lines=Did+you+know+sky+is+blue%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
 ![face-hh](https://activity-graph.herokuapp.com/graph?username=face-hh)
 
