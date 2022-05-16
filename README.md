@@ -1,5 +1,5 @@
 # Introduction 
-https://git.io/typing-svg
+<imng src='https://git.io/typing-svg'>
 
 # Invites
 - **[Discord](https://discord.gg/EKQtnY8Z9h)**
