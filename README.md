@@ -1,5 +1,5 @@
 # Introduction 
-Hello, I am **Face**! Owner & developer of Acolium!
+https://git.io/typing-svg
 
 # Invites
 - **[Discord](https://discord.gg/EKQtnY8Z9h)**
