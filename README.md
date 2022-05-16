@@ -3,12 +3,10 @@
 <h1 align="left">YOOOOO</h1>
 
 <h3 align="left">
-  I'm a JavaScript developer! I respond fast on **[Discord](https://discord.gg/EKQtnY8Z9h)** btw ;)
+  I'm a JavaScript developer! I respond fast on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> btw ;)
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=14C305&lines=Did+you+know+sky+is+blue%3F)](https://git.io/typing-svg)
-
-# GitHub Activity
 
 ![face-hh](https://activity-graph.herokuapp.com/graph?username=face-hh)
 
