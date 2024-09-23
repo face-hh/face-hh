@@ -1,8 +1,6 @@
 <h1 align="left">YOOOOO</h1>
 
-i make [youtube videos](https://www.youtube.com/FaceDevStuff) and some cool shit
-
-#1 rust closures hater
+I make software that is held together by glue, hopes, and dreams. Oh and also I post [youtube videos](https://www.youtube.com/FaceDevStuff)
 
 <h3 align="left">
   You can contact me on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> or at business.facedev@gmail.com
