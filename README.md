@@ -1,9 +1,9 @@
 <h1 align="left">YOOOOO</h1>
 
-I make software that is held together by glue, hopes, and dreams. Oh and also I post [youtube videos](https://www.youtube.com/FaceDevStuff)
+I make software  Oh and I also post [youtube videos](https://www.youtube.com/FaceDevStuff)
 
 <h3 align="left">
-  You can contact me on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> or at business.facedev@gmail.com
+  You can contact me on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> or at contact@outpoot.com
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
