@@ -9,7 +9,7 @@ I make software  Oh and I also post [youtube videos](https://www.youtube.com/Fac
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
 --- BEGIN RANDOM STATS NO ONE READS ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trose2012)]
 
 ![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
 
