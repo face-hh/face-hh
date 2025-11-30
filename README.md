@@ -2,6 +2,8 @@
 
 i make shit and post it on [youtube](https://www.youtube.com/FaceDevStuff)
 
+Part of my repositories are on the [Outpoot](https://github.com/outpoot) organization.
+
 <h3 align="left">
   You can contact me on <a href='https://discord.gg/facedev'>Discord</a> or at contact@outpoot.com
 </h3>
