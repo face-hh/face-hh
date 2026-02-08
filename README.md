@@ -2,7 +2,7 @@
 
 i make shit and post it on [youtube](https://www.youtube.com/FaceDevStuff)
 
-Part of my repositories are on the [Outpoot](https://github.com/outpoot) organization.
+Part of my repositories, such as BlipText, are on the [Outpoot](https://github.com/outpoot) organization.
 
 <h3 align="left">
   You can contact me on <a href='https://discord.gg/facedev'>Discord</a> or at contact@outpoot.com
@@ -10,12 +10,4 @@ Part of my repositories are on the [Outpoot](https://github.com/outpoot) organiz
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
---- BEGIN RANDOM STATS NO ONE READS ---
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
-
---- END RANDOM STATS NO ONE READS ---
+uhh always be creative and ambitious
